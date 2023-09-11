@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br/>
 
 #### Mobile
-<img src="https://img.shields.io/badge/Kotlin?style=flat&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-095096?style=flat&logo=Kotlin&logoColor=white"/>
 <br/>
 
 #### Tools
