@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br/>
 
 #### Mobile
-<img src="https://img.shields.io/badge/Kotlin-87cefa?style=flat&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin?style=flat&logo=Flutter&logoColor=white"/>
 <br/>
 
 #### Tools
