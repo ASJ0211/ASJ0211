@@ -31,8 +31,7 @@ both of which captivate my attention and inspire me to learn and innovate furthe
 </a>
 
 #### ⚡Languages and Tools⚡
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=ORACLE&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"  width="auto" height="20"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/HiveQL-ED8B0B?style=for-the-badge&logo=ApacheHive&logoColor=white" width="auto" height="20"> 
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=ORACLE&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/HiveQL-ED8B0B?style=for-the-badge&logo=ApacheHive&logoColor=white" width="auto" height="20"> 
   <br>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="auto" height="20"> 
 <br>
