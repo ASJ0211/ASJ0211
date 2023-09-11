@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 
   
 # 안성재(Ahn Sungjae)
-### *“Who I am can be found in the stories I create.”*
-I possess project experience utilizing **R**, my most proficient language, as well as **Python** and **SAS**. <br>
-My primary areas of interest lie in the field of 📊**Statistical data analysis** and 🤖e**X**plainable **AI**, <br>
-both of which captivate my attention and inspire me to learn and innovate further.
-<br>
+### *"it was summer.”*
+
 <br>
 
 <a href="https://github.com/min02yam/github-readme-stats">
