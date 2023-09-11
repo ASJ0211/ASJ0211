@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/min02yam/github-readme-stats">
   <img align="left" width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASJ0211&layout=compact&hide_border=true" />
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASJ0211&layout=Demo&theme=compact)
 
 #### ⚡Languages and Tools⚡
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=ORACLE&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/HiveQL-ED8B0B?style=for-the-badge&logo=ApacheHive&logoColor=white" width="auto" height="20"> 
