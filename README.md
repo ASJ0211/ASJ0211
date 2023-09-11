@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 
 <br/>
+<!--기술스택-->
 <div align="center">
 ## 💻Skills
 
