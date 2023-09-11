@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 # 안성재(Ahn Sungjae)
 ### *"it was summer.”*
 
-<div align="right">
+
   <a href="https://github.com/min02yam/github-readme-stats">
   <img align="left" width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASJ0211&layout=compact&hide_border=true" />
   </a>
-</div>
+
 <br/>
 <br/>
 <br/>
