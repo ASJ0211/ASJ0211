@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 #### ⚡Languages and Tools⚡
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=ORACLE&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/HiveQL-ED8B0B?style=for-the-badge&logo=ApacheHive&logoColor=white" width="auto" height="20"> 
   <br>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="auto" height="20"> 
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Python-095096?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Qlik-589632?style=for-the-badge&logo=Qgis&logoColor=white" width="auto" height="20"> 
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" width="auto" height="20"> 
