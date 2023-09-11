@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="auto" height="20"> 
 <br>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Qlik-589632?style=for-the-badge&logo=Qgis&logoColor=white" width="auto" height="20"> 
-<br>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" width="auto" height="20"> 
 <br>
