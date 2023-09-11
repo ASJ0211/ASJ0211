@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
   
-# 김민영(Kim Minyoung)
+# 안성재(Ahn Sungjae)
 ### *“Who I am can be found in the stories I create.”*
 I possess project experience utilizing **R**, my most proficient language, as well as **Python** and **SAS**. <br>
 My primary areas of interest lie in the field of 📊**Statistical data analysis** and 🤖e**X**plainable **AI**, <br>
@@ -36,6 +36,7 @@ both of which captivate my attention and inspire me to learn and innovate furthe
   <br>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/SAS-007cc1?style=for-the-badge&logo=SEAT&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="auto" height="20"> 
 <br>
-
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Qlik-589632?style=for-the-badge&logo=Qgis&logoColor=white" width="auto" height="20"> 
 <br>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" width="auto" height="20"> 
+<br>
