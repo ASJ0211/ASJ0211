@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 
 <!--기술스택-->
 
-<div align="center">
-  <a href="https://github.com/min02yam/github-readme-stats">
-  <img align="left" width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASJ0211&layout=compact&hide_border=true" />
-</a>
   
 ## 💻Skills
 
