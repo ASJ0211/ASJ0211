@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
   <a href="https://github.com/ASJ0211/github-readme-stats">
-  <img align="left" width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASJ0211&layout=compact&hide_border=true" />
+  <img align="left" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASJ0211&layout=compact&hide_border=true" />
   </a>
 
 <br/>
