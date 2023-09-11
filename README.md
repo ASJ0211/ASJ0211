@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Qlik-589632?style=for-the-badge&logo=Qgis&logoColor=white" width="auto" height="20"> 
- <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" width="auto" height="20"> 
-<br>
+
+
 ## 💻Skills
 
 #### Front
@@ -53,5 +52,6 @@ Here are some ideas to get you started:
 <br/>
 
 #### Tools
-<img src="https://img.shields.io/badge/Intellij-1C1C1C?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-346BF7?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android-81c147?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-010D6B?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intellij-1C1C1C?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-346BF7?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android-81c147?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-010D6B?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Qlik-589632?style=flat-square&logo=Qgis&logoColor=white" width="auto" height="20"> 
+<br>
 <br/>
