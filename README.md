@@ -36,6 +36,6 @@ both of which captivate my attention and inspire me to learn and innovate furthe
   <br>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/SAS-007cc1?style=for-the-badge&logo=SEAT&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="auto" height="20"> 
 <br>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white" width="auto" height="20"> 
+<img src="https://img.shields.io/badge/Qlik-E97627?style=for-the-badge&logo=Qlik&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white" width="auto" height="20"> 
 <br>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" width="auto" height="20"> 
