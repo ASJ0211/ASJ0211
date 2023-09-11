@@ -25,14 +25,6 @@ Here are some ideas to get you started:
   <img align="left" width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASJ0211&layout=compact&hide_border=true" />
 </a>
 
-#### ⚡Languages and Tools⚡
-
-  <br>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/Python-095096?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<br>
 
 
 ## 💻Skills
@@ -44,7 +36,7 @@ Here are some ideas to get you started:
 
 #### Back
 <img src="https://img.shields.io/badge/Python-095096?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=ORACLE&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/HiveQL-ED8B0B?style=for-the-badge&logo=ApacheHive&logoColor=white" width="auto" height="20"> 
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=ORACLE&logoColor=white" width="auto" height="20"> <img src="https://img.shields.io/badge/HiveQL-ED8B0B?style=flat&logo=ApacheHive&logoColor=white" width="auto" height="20"> 
 <br/>
 
 #### Mobile
