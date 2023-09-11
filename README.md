@@ -49,10 +49,9 @@ Here are some ideas to get you started:
 <br/>
 
 #### Mobile
-<img src="https://img.shields.io/badge/Flutter-87cefa?style=flat&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-7DBEFF?style=flat&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-87cefa?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-7DBEFF?style=flat&logo=Dart&logoColor=white"/>
 <br/>
 
 #### Tools
-<img src="https://img.shields.io/badge/Intellij-1C1C1C?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-346BF7?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android-81c147?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Eclipse IDE-010D6B?style=flat-square&logo=Eclipse IDE&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intellij-1C1C1C?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-346BF7?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android-81c147?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Eclipse IDE-010D6B?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <br/>
