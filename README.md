@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   
 # 안성재(Ahn Sungjae)
-### *"it was summer.”*
+### *"it.”*
 
 
   <a href="https://github.com/ASJ0211/github-readme-stats">
