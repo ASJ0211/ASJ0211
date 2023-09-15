@@ -69,20 +69,20 @@ Here are some ideas to get you started:
   - 딥러닝 및 머신러닝을 활용한 농산물 가격 예측
   - 데이터 청년 캠퍼스 우수상
   
-- 🐶 [스톡홀릭 증후군](https://github.com/ASJ0211/entertain_stock_2023_4)(2022.07.04 ~ 2022.08.19)
+- 📈 [스톡홀릭 증후군](https://github.com/ASJ0211/entertain_stock_2023_4)(2022.07.04 ~ 2022.08.19)
   - 비금융 데이터를 활용한 엔터테인먼트 분야 주가 예측
   - 명지대학교 SW 경진대회
 
-- 🏡 [산 Check](https://github.com/HappyHouse3)(2022.05.19 ~ 2022.05.26)
+- 🏔 [산 Check](https://github.com/HappyHouse3)(2022.05.19 ~ 2022.05.26)
   -  날씨를 통한 산악사고 발생 예측 모델 생성, 분석
   -  파이썬, tensor flow 를 이용한 데이터 처리, 모델 개발, flask 를 활용한 웹 페이지 개발.
 
   
-- 🖥 [노인안전 횡단보도 입지선정](https://github.com/SAMMaru5)(2022.01 ~ 2022.10)
+- 🚦 [노인안전 횡단보도 입지선정](https://github.com/SAMMaru5)(2022.01 ~ 2022.10)
   - 노인 안전 스마트 횡단보도 입지 선정 프로젝트 수행 
   - 노인 인구 비율과, 횡단보도 길이 등을 고려한 횡단보도 입지 선정
   
-- 📑 [유전체 품종 분류](https://github.com/SoftTong)(2022.12 ~ 2023.01)
+- 🍃 [유전체 품종 분류](https://github.com/SoftTong)(2022.12 ~ 2023.01)
   - DACON 유전체 정보 품종 분류 프로젝트 수행
   - 개체와 SNP 정보를 이용하여 품종 분류 AI모델 개발
   - 
