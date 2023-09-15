@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
   
 - 🚦 [노인안전 횡단보도 입지선정](https://github.com/ASJ0211/gwangjingu_crosswalk_2023_2)(2022.01 ~ 2022.10)
-  - 노인 안전 스마트 횡단보도 입지 선정 프로젝트 수행 
+  - 노인 안전 스마트 횡단보도 입지 선정 프로젝트 수행
   - 노인 인구 비율과, 횡단보도 길이 등을 고려한 횡단보도 입지 선정
   
 - 🍃 [유전체 품종 분류](https://github.com/ASJ0211/DNA_data_2023_1)(2022.12 ~ 2023.01)
