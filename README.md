@@ -86,6 +86,6 @@ Here are some ideas to get you started:
   - DACON 유전체 정보 품종 분류 프로젝트 수행
   - 개체와 SNP 정보를 이용하여 품종 분류 AI모델 개발
   - 
-- ✈🛫🛬 [항공 출발 지연 예측](https://github.com/W-I-W-Y)(2022.11 ~ 2022.12)
+- ✈ [항공 출발 지연 예측](https://github.com/W-I-W-Y)(2022.11 ~ 2022.12)
   - 날씨 기반 항공 출발 지연 예측 빅데이터 팀프로젝트 수행 
   - 빅데이터를 활용한 프로젝트
