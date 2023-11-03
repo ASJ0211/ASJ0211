@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 - 🍃 [유전체 품종 분류](https://github.com/ASJ0211/DNA_data_2023_1)(2022.12 ~ 2023.01)
   - DACON 유전체 정보 품종 분류 프로젝트 수행
   - 개체와 SNP 정보를 이용하여 품종 분류 AI모델 개발
-  - 
+    
 - ✈ [항공 출발 지연 예측](https://github.com/ASJ0211/flight_delay_pred_BDP_2022_1)(2022.11 ~ 2022.12)
   - 날씨 기반 항공 출발 지연 예측 빅데이터 팀프로젝트 수행 
   - 빅데이터를 활용한 프로젝트
