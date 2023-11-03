@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   
 # 안성재(Ahn Sungjae)
-### *"it.”*
+### *"Who am I? I am an individual with a passion for extracting value from data through analytical thinking. My ability to transform raw data into actionable insights sets me apart in the world of problem-solving and decision-making.”*
 
 
   <a href="https://github.com/ASJ0211/github-readme-stats">
