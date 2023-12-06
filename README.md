@@ -65,20 +65,24 @@ Here are some ideas to get you started:
 ---
 ### 💻 My project
 
-- 🥦 [농스트라다무스-농작물 가격예측](https://github.com/ASJ0211/nonsan_pred_2023_5)(2022.08.19 ~ 2022.08.24)
+- 🌆 [SOGO-경기도 도시데이터 센서 입지선정](https://github.com/ASJ0211/nonsan_pred_2023_5)(2023.10 ~ 2023.11)
+  - 클러스터링(군집화)을 통한 입지 선정과 MCLP(max covering location problem)알고리즘을 활용한 최적의 입지 선정.
+  - WCRC 2023 데이터 콘테스트-한국로봇교육콘텐츠협회장상
+
+
+- 🥦 [농스트라다무스-농작물 가격예측](https://github.com/ASJ0211/nonsan_pred_2023_5)(2023.07 ~ 2023.08)
   - 딥러닝 및 머신러닝을 활용한 농산물 가격 예측
   - 데이터 청년 캠퍼스 우수상
   
-- 📈 [스톡홀릭 증후군](https://github.com/ASJ0211/entertain_stock_2023_4)(2022.07.04 ~ 2022.08.19)
+- 📈 [스톡홀릭 증후군](https://github.com/ASJ0211/entertain_stock_2023_4)(2022.06 ~ 2022.07)
   - 비금융 데이터를 활용한 엔터테인먼트 분야 주가 예측
   - 명지대학교 SW 경진대회 최우수상
 
-- 🏔 [산 Check](https://github.com/ASJ0211/san_check_capstone_2023_3)(2022.05.19 ~ 2022.05.26)
+- 🏔 [산 Check](https://github.com/ASJ0211/san_check_capstone_2023_3)(2023.03 ~ 2023.06)
   -  날씨를 통한 산악사고 발생 예측 모델 생성, 분석
   -  파이썬, tensor flow 를 이용한 데이터 처리, 모델 개발, flask 를 활용한 웹 페이지 개발.
-
   
-- 🚦 [노인안전 횡단보도 입지선정](https://github.com/ASJ0211/gwangjingu_crosswalk_2023_2)(2022.01 ~ 2022.10)
+- 🚦 [노인안전 횡단보도 입지선정](https://github.com/ASJ0211/gwangjingu_crosswalk_2023_2)(2023.04)
   - 노인 안전 스마트 횡단보도 입지 선정 프로젝트 수행
   - 노인 인구 비율과, 횡단보도 길이 등을 고려한 횡단보도 입지 선정
   
