@@ -65,6 +65,9 @@ Here are some ideas to get you started:
 ---
 ### 💻 My project
 
+- 👀 [안저이미지를 활용한 당뇨성 망막병증 진단](https://github.com/ASJ0211/SOGO_Smart-city-sensor_2023_5))(2023.11 ~ 2023.12)
+  - 안저이미지와 딥러닝 모델을 활용해 당뇨성 망막병증의 중증도 진단.
+ 
 - 🌆 [SOGO-경기도 도시데이터 센서 입지선정](https://github.com/ASJ0211/SOGO_Smart-city-sensor_2023_5))(2023.10 ~ 2023.11)
   - 클러스터링(군집화)을 통한 입지 선정과 MCLP(max covering location problem)알고리즘을 활용한 최적의 입지 선정.
   - WCRC 2023 데이터 콘테스트-한국로봇교육콘텐츠협회장상
