@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 #### Back
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> 
 <br/>
+
 #### SQL
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/HiveQL-ED8B0B?style=flat&logo=ApacheHive&logoColor=white" width="auto" height="20"> 
 <br/>
 
