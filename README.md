@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
   
 # 안성재(Ahn Sungjae)
-### *"Who am I? I am an individual with a passion for extracting value from data through analytical thinking. My ability to transform raw data into actionable insights sets me apart in the world of problem-solving and decision-making.”*
+### *"데이터 속의 유기적인 관계를 해석, 분석해 숨겨진 가치와, 인사이트를 창출해내고자 합니다. </br>
+### *데이터로 말하고 모든 선택에는 데이터의 기반한 근거가 있어야 한다고 생각하는 DATA SCIENTIST안성재 입니다.”*
 
 
   <a href="https://github.com/ASJ0211/github-readme-stats">
