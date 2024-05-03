@@ -74,7 +74,6 @@ Here are some ideas to get you started:
 
 - ⚽ [축구 적금상품 개발 및 리스크 관리](https://github.com/ASJ0211/hana_sports_2024_03)(2024.04 ~ 2024.05)
   - 승부예측 모델링을 통한 팀별 승리 수 예측,몬테카를로를 통한 이자율 관리.
-  -
  
 - 💻 [IT아웃소싱 업체 솔루션](https://github.com/ASJ0211/IT-2024_02)(2024.03)
   - 텍스트 감성분석, 고객 클러스터링을 활용한 고객분석, 생성형 AI를 활용한 챗봇 개발.
