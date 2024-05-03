@@ -97,7 +97,7 @@ Here are some ideas to get you started:
   -  파이썬, tensor flow 를 이용한 데이터 처리, 모델 개발, flask 를 활용한 웹 페이지 개발.
   
 - 🚦 [노인안전 횡단보도 입지선정](https://github.com/ASJ0211/gwangjingu_crosswalk_2023_2)(2023.04)
-  - 노인 안전 스마트 횡단보도 입지 선정 프로젝트 수행
+  - 노인 안전 스마트 횡단보도 입지 선정 프로젝트 수행-개인 연습용 프로젝트
   - 노인 인구 비율과, 횡단보도 길이 등을 고려한 횡단보도 입지 선정
   
 - 🍃 [유전체 품종 분류](https://github.com/ASJ0211/DNA_data_2023_1)(2022.12 ~ 2023.01)
