@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   
 # 안성재(Ahn Sungjae)
-### *"데이터 속의 유기적인 관계를 해석, 분석해 숨겨진 가치와, 인사이트를 창출해내고자 합니다. </br>
+### *"데이터 속의 유기적인 관계를 분석해 숨겨진 가치와, 인사이트를 창출해내고자 합니다. </br>
 ### *데이터로 말하고 모든 선택에는 데이터의 기반한 근거가 있어야 한다고 생각합니다.”*</br>
 
 
@@ -68,38 +68,43 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" width="auto" height="20">  <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=Qgis&logoColor=white" width="auto" height="20"> 
 <br>
 </div>
+
 ---
-### 💻 My project </br>
+### ✨ KEY project </br>
 
 - ⚽ [Farmmap 데이터를 활용한 My 농지 맞춤형 농지 관리 플랫폼](https://github.com/ASJ0211/nongirap)(2024.05 ~ 2024.08)
   - 토양 성분 데이터, 날씨 데이터, 병해충 데이터 등을 활용한 농지 관리 플랫폼.
   - 농업 특화 챗봇, 초보 농민들을 위한 농지 컨설팅 플랫폼.
+  - 농림축산식품부 공동데이터 활용 창업경진대회 - 농림축산식품부 장관상(대상) 수상
  
 - 💻 [온,오프라인 연결 금융플랫폼 - 옴니채널 기반 금융 플랫폼 개발](https://github.com/ASJ0211/Omni_bank)(2024.05 ~ 2024.07)
   - 옴니채널 기반 금융 플랫폼 - 데이터 기반의 고객 맞춤형 카드 추천 및 서비스 제공
   - 챗봇 및 상담시 감정 로그화를 통한 상담환경 고도화
+  - 하나은행[디지털 하나로 - 데이터분석/서비스 기획] 최종 프로젝트
+ 
+- 🌆 [SOGO-경기도 도시데이터 센서 입지선정](https://github.com/ASJ0211/SOGO_Smart-city-sensor_2023_5)(2023.10 ~ 2023.11)
+  - 클러스터링(군집화)을 통한 입지 선정과 MCLP(max covering location problem)알고리즘을 활용한 최적의 입지 선정.
+  - WCRC 2023 데이터 콘테스트-한국로봇교육콘텐츠협회장상 수상
+ 
+- 📈 [스톡홀릭 증후군](https://github.com/ASJ0211/entertain_stock_2023_4)(2022.06 ~ 2022.07)
+  - 비금융 데이터를 활용한 엔터테인먼트 분야 주가 예측
+  - 명지대학교 SW 경진대회 최우수상 수상
+ 
+- 🥦 [농스트라다무스-농작물 가격예측](https://github.com/ASJ0211/nonsan_pred_2023_5)(2023.07 ~ 2023.08)
+  - 딥러닝 및 머신러닝을 활용한 농산물 가격 예측
+  - 한국정책학회 빅데이터 분야 프로젝트 우수상 수상
+---
+### 💻 My project </br>
 
-- ⚽ [축구 적금상품 개발 및 리스크 관리](https://github.com/ASJ0211/hana_sports_2024_03)(2024.04 ~ 2024.05)
-  - 승부예측 모델링을 통한 팀별 승리 수 예측,몬테카를로를 통한 이자율 관리.
+ ⚽ [축구 적금상품 개발 및 리스크 관리](https://github.com/ASJ0211/hana_sports_2024_03)(2024.04 ~ 2024.05)
+  - 승부예측 모델링을 통한 팀별 승리 수 예측
+  - 몬테카를로를 통한 이자율 관리 및 기본 금리 및 우대 금리 설정
  
 - 💻 [IT아웃소싱 업체 솔루션](https://github.com/ASJ0211/IT-2024_02)(2024.03)
   - 텍스트 감성분석, 고객 클러스터링을 활용한 고객분석, 생성형 AI를 활용한 챗봇 개발.
     
 - 👀 [안저이미지를 활용한 당뇨성 망막병증 진단](https://github.com/ASJ0211/EYES_2023_6/tree/main)(2023.11 ~ 2023.12)
   - 안저이미지와 딥러닝 모델을 활용해 당뇨성 망막병증의 중증도 진단.
- 
-- 🌆 [SOGO-경기도 도시데이터 센서 입지선정](https://github.com/ASJ0211/SOGO_Smart-city-sensor_2023_5)(2023.10 ~ 2023.11)
-  - 클러스터링(군집화)을 통한 입지 선정과 MCLP(max covering location problem)알고리즘을 활용한 최적의 입지 선정.
-  - WCRC 2023 데이터 콘테스트-한국로봇교육콘텐츠협회장상
-
-
-- 🥦 [농스트라다무스-농작물 가격예측](https://github.com/ASJ0211/nonsan_pred_2023_5)(2023.07 ~ 2023.08)
-  - 딥러닝 및 머신러닝을 활용한 농산물 가격 예측
-  - 데이터 청년 캠퍼스 우수상
-  
-- 📈 [스톡홀릭 증후군](https://github.com/ASJ0211/entertain_stock_2023_4)(2022.06 ~ 2022.07)
-  - 비금융 데이터를 활용한 엔터테인먼트 분야 주가 예측
-  - 명지대학교 SW 경진대회 최우수상
 
 - 🏔 [산 Check](https://github.com/ASJ0211/san_check_capstone_2023_3)(2023.03 ~ 2023.06)
   -  날씨를 통한 산악사고 발생 예측 모델 생성, 분석
