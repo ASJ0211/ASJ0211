@@ -94,9 +94,9 @@ Here are some ideas to get you started:
   - 딥러닝 및 머신러닝을 활용한 농산물 가격 예측
   - 한국정책학회 빅데이터 분야 프로젝트 우수상 수상
 ---
-### 💻 My project </br>
+### 📒 My project </br> </br>
 
--  ⚽ [축구 적금상품 개발 및 리스크 관리](https://github.com/ASJ0211/hana_sports_2024_03)(2024.04 ~ 2024.05)
+- ⚽ [축구 적금상품 개발 및 리스크 관리](https://github.com/ASJ0211/hana_sports_2024_03)(2024.04 ~ 2024.05)
   - 승부예측 모델링을 통한 팀별 승리 수 예측
   - 몬테카를로를 통한 이자율 관리 및 기본 금리 및 우대 금리 설정
  
