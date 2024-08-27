@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 ---
 ### ✨ KEY project </br>
 
-- ⚽ [Farmmap 데이터를 활용한 My 농지 맞춤형 농지 관리 플랫폼](https://github.com/ASJ0211/nongirap)(2024.05 ~ 2024.08)
+- 👩‍🌾 [Farmmap 데이터를 활용한 My 농지 맞춤형 농지 관리 플랫폼](https://github.com/ASJ0211/nongirap)(2024.05 ~ 2024.08)
   - 토양 성분 데이터, 날씨 데이터, 병해충 데이터 등을 활용한 농지 관리 플랫폼.
   - 농업 특화 챗봇, 초보 농민들을 위한 농지 컨설팅 플랫폼.
   - 농림축산식품부 공동데이터 활용 창업경진대회 - 농림축산식품부 장관상(대상) 수상
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 ---
 ### 💻 My project </br>
 
- ⚽ [축구 적금상품 개발 및 리스크 관리](https://github.com/ASJ0211/hana_sports_2024_03)(2024.04 ~ 2024.05)
+-  ⚽ [축구 적금상품 개발 및 리스크 관리](https://github.com/ASJ0211/hana_sports_2024_03)(2024.04 ~ 2024.05)
   - 승부예측 모델링을 통한 팀별 승리 수 예측
   - 몬테카를로를 통한 이자율 관리 및 기본 금리 및 우대 금리 설정
  
