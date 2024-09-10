@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   - 농업 특화 챗봇, 초보 농민들을 위한 농지 컨설팅 플랫폼.
   - 농림축산식품부 공동데이터 활용 창업경진대회 - 농림축산식품부 장관상(대상) 수상
  
-- 💻 [온,오프라인 연결 금융플랫폼 - 옴니채널 기반 금융 플랫폼 개발](https://github.com/ASJ0211/Omni_bank)(2024.05 ~ 2024.07)
+- 💻 [고객 맞춤형 금융 플랫폼 - 옴니 ONE](https://github.com/ASJ0211/Omni_bank)(2024.05 ~ 2024.07)
   - 옴니채널 기반 금융 플랫폼 - 데이터 기반의 고객 맞춤형 카드 추천 및 서비스 제공
   - 챗봇 및 상담시 감정 로그화를 통한 상담환경 고도화
   - 하나은행[디지털 하나로 - 데이터분석/서비스 기획] 최종 프로젝트
@@ -105,6 +105,7 @@ Here are some ideas to get you started:
     
 - 👀 [안저이미지를 활용한 당뇨성 망막병증 진단](https://github.com/ASJ0211/EYES_2023_6/tree/main)(2023.11 ~ 2023.12)
   - 안저이미지와 딥러닝 모델을 활용해 당뇨성 망막병증의 중증도 진단.
+  - gray scaling을 통해 학습 최적화, GaussianBlur를 통해 픽셀을 가중 평균으로 대체, 블러 적용
 
 - 🏔 [산 Check](https://github.com/ASJ0211/san_check_capstone_2023_3)(2023.03 ~ 2023.06)
   -  날씨를 통한 산악사고 발생 예측 모델 생성, 분석
