@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ###🏆 Award </br>
   [농림축산식품부 공공데이터 활용 창업경진대회 - 농림축산식품부 장관상(대상)](https://github.com/ASJ0211/nongirap)</br>
   -[창의적 SW프로그램 경진대회 - 최우수상 2nd prize](https://github.com/ASJ0211/entertain_stock_2023_4) </br>
-  -[WCRC 2023 Data Contest - 한국로봇교육협회장상(장려상) 4th prize](https://github.com/ASJ0211/SOGO_Smart-city-sensor_2023_5) </br>
+  -[WCRC 2023 Data Contest - 한국로봇교육협회장상(장려상) 4th prize](https://github.com/ASJ0211/SOGO_Smart-city-sensor_2023_5)
   -[한국정책학회 빅데이터 프로젝트 평가 - 우수상](https://github.com/ASJ0211/nonsan_pred_2023_5) </br>
   -[데이터 청년 캠퍼스 - 우수상](https://github.com/ASJ0211/nonsan_pred_2023_5) </br>
 
